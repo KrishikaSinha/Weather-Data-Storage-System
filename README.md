@@ -5,11 +5,11 @@ Weather Data Storage System is a software solution that stores and manages tempe
 
 # ✨ Key Features:
 
--Weather Record ADT – Defines attributes (date, city, temperature) and operations (insert, delete, retrieve).
--2D Array Storage – Organizes data year-wise (rows) and city-wise (columns).
--Row-major & Column-major Access – Demonstrates two ways of traversing and retrieving tabular data.
--Sparse Data Handling – Uses sentinel values (e.g., -999) or dictionaries to represent missing data.
--Complexity Analysis – Evaluates time and space efficiency of different operations.
+- Weather Record ADT – Defines attributes (date, city, temperature) and operations (insert, delete, retrieve).
+- 2D Array Storage – Organizes data year-wise (rows) and city-wise (columns).
+- Row-major & Column-major Access – Demonstrates two ways of traversing and retrieving tabular data.
+- Sparse Data Handling – Uses sentinel values (e.g., -999) or dictionaries to represent missing data.
+- Complexity Analysis – Evaluates time and space efficiency of different operations.
 
 ---
 
