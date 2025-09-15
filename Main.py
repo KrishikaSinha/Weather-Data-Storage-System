@@ -23,6 +23,6 @@ def main():
 
     print("\nRetrieving temperature for Delhi in 2023:", storage.retrieve('Delhi', '2023'))
     storage.analyze_complexity()
-    
-    if __name__ == '__main__':
-        main()
+
+if __name__ == '__main__':  
+    main()
