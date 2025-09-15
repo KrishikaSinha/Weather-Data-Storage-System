@@ -4,4 +4,4 @@ from dataclasses import dataclass
 class WeatherRecord:
     date: str       # Format: "dd/mm/yyyy"
     city: str
-    temperature:float; 
+    temperature: float
